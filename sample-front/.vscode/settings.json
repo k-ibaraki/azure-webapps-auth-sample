@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/b63a6dc4-5687-42e1-b506-cfaebf08dfc3/resourceGroups/sample-program/providers/Microsoft.Web/sites/sample-frontend-ibaraki",
+  "appService.deploySubpath": ".",
+}
