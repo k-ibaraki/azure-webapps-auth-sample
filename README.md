@@ -1,2 +1,2 @@
 # azure-webapps-auth-sample
-- azure webappsで認証を試したサンプル
+- azure web appsで認証を試したサンプル
